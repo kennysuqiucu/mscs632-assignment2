@@ -11,6 +11,8 @@
 - src_bad > main_bad.rs
 - Cargo.toml
 #### Java
-- memory_java_gc.java
+- MemoryJava.java
+- MemoryJava.class
+- MemoryJava$Node.class
 #### C++
 - memory_leak_c++.cpp
